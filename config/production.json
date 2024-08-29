@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://vedant123:vedant123@atlascluster.2m4ogwi.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster",
+    "jwtSecret" : "mysecrettoken",
+    "githubClientId" : "8c6deb9c05166547ec63",
+    "githubSecret" : "a873c4d14961a25570e86dbae837fbf2c4b36608"
+}
